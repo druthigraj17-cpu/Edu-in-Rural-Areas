@@ -1,10 +1,10 @@
-Rural Education Enhancement System - Government of Kerala
+**Rural Education Enhancement System - Government of Kerala**
 
-Overview
+**Overview**
 
 This project, initiated by the Government of Kerala, aims to enhance the quality of education in rural areas through a technology-driven system. By addressing challenges like limited infrastructure, resource access, and teacher training, the system leverages a robust hardware and software stack to deliver equitable, scalable, and sustainable education solutions.
 
-Objectives
+**Objectives**
 
 
 
@@ -36,9 +36,9 @@ Promote 21st-century skills like digital literacy and problem-solving.
 
 Ensure equitable outcomes with data-driven monitoring.
 
-Technology Stack
+**Technology Stack**
 
-Hardware
+**Hardware**
 
 
 
@@ -54,7 +54,7 @@ Low-Cost Devices: Rugged Raspberry Pi and refurbished laptops for affordable acc
 
 Connectivity: Wi-Fi mesh networks and satellite solutions (e.g., Starlink) for consistent internet.
 
-Software
+**Software**
 
 
 
@@ -78,7 +78,7 @@ Data Dashboards: Tableau or Power BI for real-time progress tracking.
 
 Cybersecurity: Open-source tools like pfSense for data privacy and system reliability.
 
-Features
+**Features**
 
 
 
@@ -102,13 +102,13 @@ Data-Driven Insights: Real-time monitoring of student progress and program impac
 
 Sustainable Infrastructure: Solar-powered devices and low-cost hardware align with rural constraints.
 
-Installation
+**Installation**
 
 
 
 
 
-Hardware Setup:
+**Hardware Setup:**
 
 
 
@@ -126,7 +126,7 @@ Install Wi-Fi mesh or satellite connectivity for internet access.
 
 
 
-Software Setup:
+**Software Setup:**
 
 
 
@@ -148,7 +148,7 @@ Implement pfSense for cybersecurity and device management.
 
 
 
-Community Tools:
+**Community Tools:**
 
 
 
